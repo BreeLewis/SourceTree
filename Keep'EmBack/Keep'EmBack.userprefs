@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/EnemyHealth.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ThisIsSpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CountDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimerBarDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemySpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameOverManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/RaftMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PausedUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="62" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
